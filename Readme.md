@@ -1,6 +1,7 @@
-# Foobar
+# Supervised Learning Assignment: Lovey Dovey
 
-Supervised Learning Assignment: The star
+All updated files can be found at https://github.com/ajaytomgeorge/MLAssignmentLoveyDovey.
+Please download files from git repo stated above to download latest algorithms added
 
 ## Goal
 We are training a binary classifier, attempting to get good generalization performance. 
